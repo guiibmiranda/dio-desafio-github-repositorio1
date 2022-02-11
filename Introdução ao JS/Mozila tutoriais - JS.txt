@@ -1,0 +1,6 @@
+Olá!
+Começando a desbravar o mundo Dev?
+
+Acessa agora MDN Web Docs do Mozila e começa a tirar suas dúvidas!
+==>> https://developer.mozilla.org/pt-BR/docs/Web/JavaScript <==
+
